@@ -1,0 +1,868 @@
+[
+    {
+        "Id": 1,
+        "ActivityId": 100800001,
+        "Buff": [
+            -2.641116492174689e-16
+        ],
+        "BuffName": "BossEn_title_01",
+        "BuffDesc": "BossEn_detail_01",
+        "BuffFactors": [],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 2,
+        "ActivityId": 100800001,
+        "Buff": [
+            -5.30825383648903e-16
+        ],
+        "BuffName": "BossEn_title_02",
+        "BuffDesc": "BossEn_detail_02",
+        "BuffFactors": [],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 3,
+        "ActivityId": 100800001,
+        "Buff": [
+            -2.8579569266717897e-16
+        ],
+        "BuffName": "BossEn_title_03",
+        "BuffDesc": "BossEn_detail_03",
+        "BuffFactors": [],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 4,
+        "ActivityId": 100800001,
+        "Buff": [
+            -1.4210854715202004e-14
+        ],
+        "BuffName": "MapMark_300202_MarkTitle",
+        "BuffDesc": "MapMark_300202_MarkTitle",
+        "BuffFactors": [],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 61,
+        "ActivityId": 100800001,
+        "Buff": [
+            -1.8014398509481984e+16
+        ],
+        "BuffName": "MapMark_300201_MarkTitle",
+        "BuffDesc": "MapMark_300201_MarkTitle",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 62,
+        "ActivityId": 100800001,
+        "Buff": [
+            -1.0141204801825835e+31
+        ],
+        "BuffName": "MapMark_300201_MarkTitle",
+        "BuffDesc": "MapMark_300201_MarkTitle",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 63,
+        "ActivityId": 100800001,
+        "Buff": [
+            -3.2451855365842673e+32
+        ],
+        "BuffName": "MapMark_300201_MarkTitle",
+        "BuffDesc": "MapMark_300201_MarkTitle",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 64,
+        "ActivityId": 100800001,
+        "Buff": [
+            -6.490371073168535e+32
+        ],
+        "BuffName": "MapMark_300201_MarkTitle",
+        "BuffDesc": "MapMark_300201_MarkTitle",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 65,
+        "ActivityId": 100800001,
+        "Buff": [
+            -4.0314973581701e-15
+        ],
+        "BuffName": "MapMark_300201_MarkTitle",
+        "BuffDesc": "MapMark_300201_MarkTitle",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 10,
+        "ActivityId": 100800001,
+        "Buff": [
+            -0.0009765625
+        ],
+        "BuffName": "RiskHarvest_buffname_10",
+        "BuffDesc": "RiskHarvest_buffDesc_10",
+        "BuffFactors": [],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 11,
+        "ActivityId": 100800001,
+        "Buff": [
+            -0.001953125
+        ],
+        "BuffName": "RiskHarvest_buffname_11",
+        "BuffDesc": "RiskHarvest_buffDesc_11",
+        "BuffFactors": [],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 12,
+        "ActivityId": 100800001,
+        "Buff": [
+            -0.00390625
+        ],
+        "BuffName": "RiskHarvest_buffname_12",
+        "BuffDesc": "RiskHarvest_buffDesc_12",
+        "BuffFactors": [],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 13,
+        "ActivityId": 100800001,
+        "Buff": [
+            -0.0078125
+        ],
+        "BuffName": "RiskHarvest_buffname_13",
+        "BuffDesc": "RiskHarvest_buffDesc_13",
+        "BuffFactors": [],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 14,
+        "ActivityId": 100800001,
+        "Buff": [
+            -0.015625
+        ],
+        "BuffName": "RiskHarvest_buffname_14",
+        "BuffDesc": "RiskHarvest_buffDesc_14",
+        "BuffFactors": [],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 21,
+        "ActivityId": 100800001,
+        "Buff": [
+            -1.0
+        ],
+        "BuffName": "RiskHarvest_buffname_21",
+        "BuffDesc": "RiskHarvest_buffDesc_21",
+        "BuffFactors": [
+            "45",
+            "10"
+        ],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 22,
+        "ActivityId": 100800001,
+        "Buff": [
+            -1024.0
+        ],
+        "BuffName": "RiskHarvest_buffname_22",
+        "BuffDesc": "RiskHarvest_buffDesc_22",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 23,
+        "ActivityId": 100800001,
+        "Buff": [
+            -1048576.0
+        ],
+        "BuffName": "RiskHarvest_buffname_23",
+        "BuffDesc": "RiskHarvest_buffDesc_23",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 24,
+        "ActivityId": 100800001,
+        "Buff": [
+            -1073741824.0
+        ],
+        "BuffName": "RiskHarvest_buffname_24",
+        "BuffDesc": "RiskHarvest_buffDesc_24",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 25,
+        "ActivityId": 100800001,
+        "Buff": [
+            -1099511627776.0
+        ],
+        "BuffName": "RiskHarvest_buffname_25",
+        "BuffDesc": "RiskHarvest_buffDesc_25",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 110,
+        "ActivityId": 100800001,
+        "Buff": [
+            -1125899906842624.0
+        ],
+        "BuffName": "RiskHarvest_buffname_110",
+        "BuffDesc": "RiskHarvest_buffDesc_110",
+        "BuffFactors": [],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 111,
+        "ActivityId": 102300013,
+        "Buff": [
+            3.022314549036573e+23
+        ],
+        "BuffName": "RiskHarvest_buffname_111",
+        "BuffDesc": "RiskHarvest_buffDesc_111",
+        "BuffFactors": [
+            "15",
+            "1"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite13.T_MowingBuffIconWhite13",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 112,
+        "ActivityId": 102300013,
+        "Buff": [
+            3.094850098213451e+26
+        ],
+        "BuffName": "RiskHarvest_buffname_112",
+        "BuffDesc": "RiskHarvest_buffDesc_112",
+        "BuffFactors": [
+            "10",
+            "20%",
+            "3"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite18.T_MowingBuffIconWhite18",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 113,
+        "ActivityId": 102300013,
+        "Buff": [
+            3.1691265005705735e+29
+        ],
+        "BuffName": "RiskHarvest_buffname_113",
+        "BuffDesc": "RiskHarvest_buffDesc_113",
+        "BuffFactors": [
+            "10",
+            "20%",
+            "3"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite04.T_MowingBuffIconWhite04",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 31,
+        "ActivityId": 100800001,
+        "Buff": [
+            64.0
+        ],
+        "BuffName": "RiskHarvest_buffname_31",
+        "BuffDesc": "RiskHarvest_buffDesc_31",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 32,
+        "ActivityId": 100800001,
+        "Buff": [
+            65536.0
+        ],
+        "BuffName": "RiskHarvest_buffname_32",
+        "BuffDesc": "RiskHarvest_buffDesc_32",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 33,
+        "ActivityId": 100800001,
+        "Buff": [
+            67108864.0
+        ],
+        "BuffName": "RiskHarvest_buffname_33",
+        "BuffDesc": "RiskHarvest_buffDesc_33",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 34,
+        "ActivityId": 100800001,
+        "Buff": [
+            134217728.0
+        ],
+        "BuffName": "RiskHarvest_buffname_34",
+        "BuffDesc": "RiskHarvest_buffDesc_34",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 35,
+        "ActivityId": 100800001,
+        "Buff": [
+            -0.0009765625
+        ],
+        "BuffName": "RiskHarvest_buffname_35",
+        "BuffDesc": "RiskHarvest_buffDesc_35",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 40,
+        "ActivityId": 102300013,
+        "Buff": [],
+        "BuffName": "RiskHarvest_buffname_40",
+        "BuffDesc": "RiskHarvest_buffDesc_40",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon01.T_MowingBuffIcon01",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 42,
+        "ActivityId": 102300013,
+        "Buff": [
+            281474976710656.0,
+            24.503543853759766
+        ],
+        "BuffName": "RiskHarvest_buffname_42",
+        "BuffDesc": "RiskHarvest_buffDesc_42",
+        "BuffFactors": [
+            "50%",
+            "20%"
+        ],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon01.T_MowingBuffIcon01",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 43,
+        "ActivityId": 102300013,
+        "Buff": [
+            2.8823037615171174e+17,
+            24.503543853759766
+        ],
+        "BuffName": "RiskHarvest_buffname_43",
+        "BuffDesc": "RiskHarvest_buffDesc_43",
+        "BuffFactors": [
+            "30%"
+        ],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon11.T_MowingBuffIcon11",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 44,
+        "ActivityId": 102300013,
+        "Buff": [
+            -1024.0
+        ],
+        "BuffName": "RiskHarvest_buffname_44",
+        "BuffDesc": "RiskHarvest_buffDesc_44",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon05.T_MowingBuffIcon05",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 45,
+        "ActivityId": 102300013,
+        "Buff": [
+            2.9514790517935283e+20,
+            24.503543853759766
+        ],
+        "BuffName": "RiskHarvest_buffname_45",
+        "BuffDesc": "RiskHarvest_buffDesc_45",
+        "BuffFactors": [
+            "10%",
+            "200",
+            "10",
+            "10"
+        ],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon02.T_MowingBuffIcon02",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 52,
+        "ActivityId": 102300013,
+        "Buff": [
+            -1.8446744073709552e+19
+        ],
+        "BuffName": "RiskHarvest_buffname_52",
+        "BuffDesc": "RiskHarvest_buffDesc_52",
+        "BuffFactors": [
+            "10",
+            "2"
+        ],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon10.T_MowingBuffIcon10",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 53,
+        "ActivityId": 102300013,
+        "Buff": [
+            -1.888946593147858e+22,
+            24.50358009338379
+        ],
+        "BuffName": "RiskHarvest_buffname_53",
+        "BuffDesc": "RiskHarvest_buffDesc_53",
+        "BuffFactors": [
+            "30%"
+        ],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon07.T_MowingBuffIcon07",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 54,
+        "ActivityId": 102300013,
+        "Buff": [
+            -1.9342813113834067e+25
+        ],
+        "BuffName": "RiskHarvest_buffname_54",
+        "BuffDesc": "RiskHarvest_buffDesc_54",
+        "BuffFactors": [
+            "15%",
+            "30%",
+            "8",
+            "3"
+        ],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon06.T_MowingBuffIcon06",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 55,
+        "ActivityId": 102300013,
+        "Buff": [
+            67108864.0,
+            24.503469467163086,
+            4294967296.0
+        ],
+        "BuffName": "RiskHarvest_buffname_55",
+        "BuffDesc": "RiskHarvest_buffDesc_55",
+        "BuffFactors": [],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon04.T_MowingBuffIcon04",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 114,
+        "ActivityId": 102300013,
+        "Buff": [
+            3.2451855365842673e+32,
+            24.503543853759766
+        ],
+        "BuffName": "RiskHarvest_buffname_114",
+        "BuffDesc": "RiskHarvest_buffDesc_114",
+        "BuffFactors": [
+            "100%",
+            "8",
+            "30%"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite14.T_MowingBuffIconWhite14",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 115,
+        "ActivityId": 102300013,
+        "Buff": [
+            3.32306998946229e+35,
+            24.503543853759766
+        ],
+        "BuffName": "RiskHarvest_buffname_115",
+        "BuffDesc": "RiskHarvest_buffDesc_115",
+        "BuffFactors": [
+            "40%"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite12.T_MowingBuffIconWhite12",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 116,
+        "ActivityId": 102300013,
+        "Buff": [
+            Infinity
+        ],
+        "BuffName": "RiskHarvest_buffname_116",
+        "BuffDesc": "RiskHarvest_buffDesc_116",
+        "BuffFactors": [
+            "100%",
+            "20"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite09.T_MowingBuffIconWhite09",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 151,
+        "ActivityId": 102300013,
+        "Buff": [
+            -9.903520314283042e+27
+        ],
+        "BuffName": "RiskHarvest_buffname_151",
+        "BuffDesc": "RiskHarvest_buffDesc_151",
+        "BuffFactors": [
+            "10"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite13.T_MowingBuffIconWhite13",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 153,
+        "ActivityId": 102300013,
+        "Buff": [
+            -1.0384593717069655e+34
+        ],
+        "BuffName": "RiskHarvest_buffname_153",
+        "BuffDesc": "RiskHarvest_buffDesc_153",
+        "BuffFactors": [
+            "3",
+            "10%"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite06.T_MowingBuffIconWhite06",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 154,
+        "ActivityId": 102300013,
+        "Buff": [
+            -1.0633823966279327e+37
+        ],
+        "BuffName": "RiskHarvest_buffname_154",
+        "BuffDesc": "RiskHarvest_buffDesc_154",
+        "BuffFactors": [
+            "10",
+            "2",
+            "2"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite03.T_MowingBuffIconWhite03",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 155,
+        "ActivityId": 102300013,
+        "Buff": [
+            9.4039548065783e-38
+        ],
+        "BuffName": "RiskHarvest_buffname_155",
+        "BuffDesc": "RiskHarvest_buffDesc_155",
+        "BuffFactors": [
+            "30%",
+            "15",
+            "40%",
+            "15"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite19.T_MowingBuffIconWhite19",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 156,
+        "ActivityId": 102300013,
+        "Buff": [
+            9.62964972193618e-35
+        ],
+        "BuffName": "RiskHarvest_buffname_156",
+        "BuffDesc": "RiskHarvest_buffDesc_156",
+        "BuffFactors": [
+            "3",
+            "50%",
+            "100%"
+        ],
+        "BuffType": 2,
+        "BuffProgress": 2,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite14.T_MowingBuffIconWhite14",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 201,
+        "ActivityId": 102300013,
+        "Buff": [
+            -5.316911983139664e+36
+        ],
+        "BuffName": "RiskHarvest_buffname_201",
+        "BuffDesc": "RiskHarvest_buffDesc_201",
+        "BuffFactors": [
+            "20%"
+        ],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite15.T_MowingBuffIconWhite15",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 202,
+        "ActivityId": 102300013,
+        "Buff": [
+            -1.0633823966279327e+37
+        ],
+        "BuffName": "RiskHarvest_buffname_202",
+        "BuffDesc": "RiskHarvest_buffDesc_202",
+        "BuffFactors": [
+            "15%"
+        ],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite12.T_MowingBuffIconWhite12",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 203,
+        "ActivityId": 102300013,
+        "Buff": [
+            -2.1267647932558654e+37
+        ],
+        "BuffName": "RiskHarvest_buffname_203",
+        "BuffDesc": "RiskHarvest_buffDesc_203",
+        "BuffFactors": [
+            "10%"
+        ],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite14.T_MowingBuffIconWhite14",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 204,
+        "ActivityId": 102300013,
+        "Buff": [
+            -4.253529586511731e+37
+        ],
+        "BuffName": "RiskHarvest_buffname_204",
+        "BuffDesc": "RiskHarvest_buffDesc_204",
+        "BuffFactors": [
+            "20%"
+        ],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite14.T_MowingBuffIconWhite14",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 205,
+        "ActivityId": 102300013,
+        "Buff": [
+            -8.507059173023462e+37
+        ],
+        "BuffName": "RiskHarvest_buffname_205",
+        "BuffDesc": "RiskHarvest_buffDesc_205",
+        "BuffFactors": [
+            "20%"
+        ],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite15.T_MowingBuffIconWhite15",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 207,
+        "ActivityId": 102300013,
+        "Buff": [
+            -Infinity
+        ],
+        "BuffName": "RiskHarvest_buffname_207",
+        "BuffDesc": "RiskHarvest_buffDesc_207",
+        "BuffFactors": [
+            "15%"
+        ],
+        "BuffType": 1,
+        "BuffProgress": 1,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIconWhite09.T_MowingBuffIconWhite09",
+        "Reward": 0,
+        "RewardDesc": ""
+    },
+    {
+        "Id": 210,
+        "ActivityId": 102300013,
+        "Buff": [
+            0.0,
+            24.503507614135742,
+            1.1754943508222875e-38,
+            24.503507614135742,
+            2.350988701644575e-38,
+            24.503507614135742
+        ],
+        "BuffName": "RiskHarvest_buffname_210",
+        "BuffDesc": "RiskHarvest_buffDesc_210",
+        "BuffFactors": [
+            "100%"
+        ],
+        "BuffType": 3,
+        "BuffProgress": 0,
+        "BuffIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityMowing/T_MowingBuffIcon04.T_MowingBuffIcon04",
+        "Reward": 0,
+        "RewardDesc": ""
+    }
+]

@@ -1,0 +1,1991 @@
+[
+    {
+        "Id": 10001001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [
+            -3.970348528676936e+33
+        ],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "300"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10001002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [
+            -3.9703732874777216e+33
+        ],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "600"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10001003,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "50"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10002001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2028"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10002002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1028"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10002003,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "3025"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10003001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [
+            -3.9703980462785073e+33
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10003002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;lianji;2;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10004001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "100"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10004002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;gongmingjineng;3;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10005001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [
+            -3.970422805079293e+33
+        ],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;;;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10006001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;;;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10006002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "100",
+            "1;;;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10006003,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "200",
+            "2;;;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10006004,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "200"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10007001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;;;5"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10007002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddCharacterBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1|100;2|200"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10007003,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "300"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10008001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "5;;;3|4|5"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10008002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "500"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009001,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.216256181773901e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009002,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            4.9047501788059946e-36,
+            58.549598693847656
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009003,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 99,
+        "RoomCount": 99,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "EntranceBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "900170000008;900170000009"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009004,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            4.892995235297772e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009005,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "ResonanceChainUp"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009006,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "LevelUpByBall"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "10;5"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009007,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GainRollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "20;1;;;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009008,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GoldGetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "10000"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009009,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "BallGetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "500000"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010001,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.4807424107089155e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010002,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.483681146585971e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010003,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.486619882463027e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010004,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.4895586183400827e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010005,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.4924973542171384e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010006,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.495436090094194e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010007,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.527762184741807e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010008,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.5013135618483055e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010009,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.504252297725361e-36
+        ],
+        "ExtraEffectTypeArray1": [
+            "MonsterAddBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "900170000214"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010010,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.507191033602417e-36
+        ],
+        "ExtraEffectTypeArray1": [
+            "MonsterAddBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "900170000215"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009010,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.2515210122985694e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009011,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "999999",
+            "5;;;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009012,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            5.257398484052681e-36
+        ],
+        "ExtraEffectTypeArray1": [
+            "GoldGetRatioUpRatio"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "20000"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011011,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "8002"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011012,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "8007"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011013,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "8005"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011014,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "8009"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011015,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "8004"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011016,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "8006"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011017,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "8008"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011018,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "8003"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011019,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "8001"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012011,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2;lianji;2;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012012,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2;gongmingjineng;3;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012013,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2;shengcun;1;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012014,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2;shenghai;4;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012015,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "400",
+            "2;;;5"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012016,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2;;;4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012017,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "100"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012018,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "AddCharacterBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "200",
+            "1|100;2|200"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012019,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "AddCharacterBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "400",
+            "1|100;2|200"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012020,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "AddCharacterBuff",
+            "AddCharacterBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "600",
+            "1|100;2|200",
+            "1|100;2|200"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012021,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2;;;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012022,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain",
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2028;1028;3025",
+            "4027"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012023,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "800"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012024,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "3;;;5"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012025,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2",
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "3;;;4",
+            "2;;;4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10012026,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2",
+            "RollGain2",
+            "RollGain2",
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "3;;;3",
+            "3;;;3",
+            "3;;;3",
+            "1;;;3"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009013,
+        "MainEffectType": 3,
+        "Condition": 15000000,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            1.900774365279639e-35
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009014,
+        "MainEffectType": 3,
+        "Condition": 15000000,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            1.9031253539812835e-35
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009015,
+        "MainEffectType": 3,
+        "Condition": 15000001,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            1.9160557918403286e-35
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009016,
+        "MainEffectType": 3,
+        "Condition": 15000005,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            1.905476342682928e-35
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009017,
+        "MainEffectType": 3,
+        "Condition": 15000003,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            1.9066518370337503e-35
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009018,
+        "MainEffectType": 3,
+        "Condition": 15000002,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            1.9078273313845726e-35
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009019,
+        "MainEffectType": 4,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 0,
+        "RoomCount": 3,
+        "BuffArray1": [
+            1.9184067805419732e-35
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [
+            1.9125293087878618e-35
+        ],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10009020,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 99,
+        "RoomCount": 99,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "EntranceBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "900170002012"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10011020,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "300"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010011,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.412321683735578e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010012,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.41819915548969e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010013,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.424076627243801e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010014,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.429954098997913e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010015,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.441709042506136e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010016,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.447586514260247e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010017,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.465218929522581e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010018,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.471096401276693e-36
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010019,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.476973873030804e-36
+        ],
+        "ExtraEffectTypeArray1": [
+            "MonsterAddBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "900170000215"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10010020,
+        "MainEffectType": 1,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 99,
+        "BuffArray1": [
+            6.482851344784916e-36
+        ],
+        "ExtraEffectTypeArray1": [
+            "MonsterAddBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "900170000464"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10008003,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [
+            -3.970447563880079e+33,
+            137.58839416503906
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10008004,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [
+            -3.970447563880079e+33
+        ],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;;;5"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10008005,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [
+            -3.97049708148165e+33
+        ],
+        "ExtraEffectTypeArray1": [],
+        "ExtraEffectTypeArgsArray1": [],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10020001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [
+            -2.595703125
+        ],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "800"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10020002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "400"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10035001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1028;1028"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10035002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "3025;3025"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10035003,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "4027;4027"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10040001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;lianji;2;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10040002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;gongmingjineng;3;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10040003,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;shengcun;1;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10040004,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;shenghai;4;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10041001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "400",
+            "1;;;5"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10041002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;;;4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10042001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "100"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10042002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "AddCharacterBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "200",
+            "1|100;2|200"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10042003,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "400"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10043001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RemoveGold",
+            "AddCharacterBuff"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "200",
+            "1|100;2|200"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10043002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain2"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;;;3|4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10044001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "AddAssignGain",
+            "AddAssignGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "2028;1028;3025"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10044002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "GetGold"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "600"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10045001,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;;;5"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10045002,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain",
+            "RollGain",
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;;;4",
+            "1;;;4",
+            "1;;;4"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    },
+    {
+        "Id": 10045003,
+        "MainEffectType": 2,
+        "Condition": 0,
+        "ConditionArgs": [],
+        "Count": 1,
+        "RoomCount": 1,
+        "BuffArray1": [],
+        "ExtraEffectTypeArray1": [
+            "RollGain",
+            "RollGain",
+            "RollGain",
+            "RollGain",
+            "RollGain"
+        ],
+        "ExtraEffectTypeArgsArray1": [
+            "1;;;3",
+            "1;;;3",
+            "1;;;3",
+            "1;;;3",
+            "1;;;3"
+        ],
+        "BuffArray2": [],
+        "ExtraEffectTypeArray2": [],
+        "ExtraEffectTypeArgsArray2": []
+    }
+]

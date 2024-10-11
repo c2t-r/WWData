@@ -1,0 +1,115 @@
+[
+    {
+        "TpyeID": 1,
+        "UnlockTitle": "Text_BattlePassUnlockTitle1_Text",
+        "UnlockText": "Text_BattlePassUnlockText1_Text",
+        "UnlockReward": [
+            {
+                "key": 3,
+                "value": 680
+            },
+            {
+                "key": 50002,
+                "value": 5
+            },
+            {
+                "key": 50001,
+                "value": 2
+            },
+            {
+                "key": 50000164,
+                "value": 1
+            },
+            {
+                "key": 10800,
+                "value": 7
+            },
+            {
+                "key": 36000014,
+                "value": 0
+            },
+            {
+                "key": 50000168,
+                "value": 0
+            },
+            {
+                "key": 50000060,
+                "value": 0
+            },
+            {
+                "key": 50000061,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "TpyeID": 2,
+        "UnlockTitle": "Text_BattlePassUnlockTitle2_Text",
+        "UnlockText": "Text_BattlePassUnlockText2_Text",
+        "UnlockReward": [
+            {
+                "key": 3,
+                "value": 680
+            },
+            {
+                "key": 50002,
+                "value": 5
+            },
+            {
+                "key": 50001,
+                "value": 5
+            },
+            {
+                "key": 50000164,
+                "value": 1
+            },
+            {
+                "key": 80069005,
+                "value": 1
+            },
+            {
+                "key": 42500080,
+                "value": 1
+            },
+            {
+                "key": 10800,
+                "value": 7
+            },
+            {
+                "key": 36000014,
+                "value": 0
+            },
+            {
+                "key": 50000168,
+                "value": 0
+            },
+            {
+                "key": 50000060,
+                "value": 0
+            },
+            {
+                "key": 50000061,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "TpyeID": 3,
+        "UnlockTitle": "Text_BattlePassUnlockTitle3_Text",
+        "UnlockText": "Text_BattlePassUnlockText3_Text",
+        "UnlockReward": [
+            {
+                "key": 80069005,
+                "value": 1
+            },
+            {
+                "key": 50001,
+                "value": 3
+            },
+            {
+                "key": 42500080,
+                "value": 1
+            }
+        ]
+    }
+]

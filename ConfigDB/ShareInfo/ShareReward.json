@@ -1,0 +1,57 @@
+[
+    {
+        "Id": 1,
+        "ShareType": 1,
+        "ShareReward": [
+            {
+                "key": 3,
+                "value": 20
+            }
+        ],
+        "UpdateType": 0
+    },
+    {
+        "Id": 2,
+        "ShareType": 2,
+        "ShareReward": [
+            {
+                "key": 3,
+                "value": 20
+            }
+        ],
+        "UpdateType": 0
+    },
+    {
+        "Id": 3,
+        "ShareType": 3,
+        "ShareReward": [
+            {
+                "key": 3,
+                "value": 30
+            }
+        ],
+        "UpdateType": 0
+    },
+    {
+        "Id": 4,
+        "ShareType": 3,
+        "ShareReward": [
+            {
+                "key": 3,
+                "value": 30
+            }
+        ],
+        "UpdateType": 0
+    },
+    {
+        "Id": 5,
+        "ShareType": 4,
+        "ShareReward": [
+            {
+                "key": 3,
+                "value": 30
+            }
+        ],
+        "UpdateType": 0
+    }
+]

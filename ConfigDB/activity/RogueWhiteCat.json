@@ -1,0 +1,179 @@
+[
+    {
+        "Id": 102600001,
+        "ScoreId": 80100004,
+        "EnergyId": 80100004,
+        "MaxEnergy": 1200,
+        "Insts": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "BossRewards": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206
+        ],
+        "LimitedTimeId": 1080,
+        "Rewards": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FirstWhiteCatDungeonId": 8407,
+        "RepeatWhiteCatDungeonId": 8408,
+        "WhiteCatFirstOpenCondition": 13020001,
+        "FirstWhiteCatQuestId": 139000039,
+        "WhiteCatRepeatOpenCondition": 13020000,
+        "OpenCondition": [
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 2,
+                "value": 0
+            },
+            {
+                "key": 3,
+                "value": 13020006
+            }
+        ],
+        "DreamLinkTeleportMarkId": 380035,
+        "TabText": [
+            {
+                "key": 1,
+                "value": "Dream_Task_Title01"
+            },
+            {
+                "key": 2,
+                "value": "Dream_Task_Title02"
+            },
+            {
+                "key": 3,
+                "value": "Dream_Task_Title03"
+            },
+            {
+                "key": 4,
+                "value": "Dream_Task_Title04"
+            }
+        ],
+        "TabIcon": [
+            {
+                "key": 1,
+                "value": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconActivityDreamland.SP_IconActivityDreamland"
+            },
+            {
+                "key": 2,
+                "value": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityDreamlandConnect/DreamlandRewardB/SP_RewardBTabIcon3.SP_RewardBTabIcon3"
+            },
+            {
+                "key": 3,
+                "value": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityDreamlandConnect/DreamlandRewardB/SP_RewardBTabIcon2.SP_RewardBTabIcon2"
+            },
+            {
+                "key": 4,
+                "value": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityDreamlandConnect/DreamlandRewardB/SP_RewardBTabIcon1.SP_RewardBTabIcon1"
+            }
+        ],
+        "BossTabText": [
+            {
+                "key": 1,
+                "value": "Dream_Cat_Challenge_Reward"
+            },
+            {
+                "key": 2,
+                "value": "Dream_Cat_Integral_Reward"
+            }
+        ],
+        "PlotRoleLinkAudio": "play_vo_rogue_link_together_01",
+        "BossInstanceList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "WeaponPreviewId": 4201102,
+        "DungeonBaseProgress": 10,
+        "DungeonMaxProgress": 100,
+        "PreloadRoleIds": [
+            {
+                "key": 8401,
+                "value": "1603;1501;1502"
+            },
+            {
+                "key": 8402,
+                "value": "1205;1501;1502"
+            },
+            {
+                "key": 8403,
+                "value": "1302;1501;1502"
+            },
+            {
+                "key": 8404,
+                "value": "1203;1501;1502"
+            },
+            {
+                "key": 8405,
+                "value": "1105;1501;1502"
+            },
+            {
+                "key": 8406,
+                "value": "1504;1501;1502"
+            },
+            {
+                "key": 8407,
+                "value": "1603;1205;1302;1203;1105;1504;1501;1502;1604;1605"
+            },
+            {
+                "key": 8408,
+                "value": "1603;1205;1302;1203;1105;1504;1501;1502;1604;1605"
+            },
+            {
+                "key": 8409,
+                "value": "1603;1205;1302;1203;1105;1504;1501;1502;1604;1605"
+            },
+            {
+                "key": 8410,
+                "value": "1603;1205;1302;1203;1105;1504;1501;1502;1604;1605"
+            },
+            {
+                "key": 8411,
+                "value": "1603;1205;1302;1203;1105;1504;1501;1502;1604;1605"
+            },
+            {
+                "key": 8412,
+                "value": "1603;1205;1302;1203;1105;1504;1501;1502;1604;1605"
+            },
+            {
+                "key": 8413,
+                "value": "1603;1205;1302;1203;1105;1504;1501;1502;1604;1605"
+            }
+        ],
+        "PlotRoleLinkTeam": [
+            1501,
+            1502,
+            1504,
+            1603,
+            1604,
+            1605
+        ]
+    }
+]

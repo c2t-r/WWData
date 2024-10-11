@@ -1,0 +1,46 @@
+[
+    {
+        "ItemId": 3,
+        "Times": 1,
+        "GainCount": 1,
+        "Consume": [
+            {
+                "key": 4,
+                "value": 1
+            }
+        ]
+    },
+    {
+        "ItemId": 50001,
+        "Times": 1,
+        "GainCount": 1,
+        "Consume": [
+            {
+                "key": 3,
+                "value": 160
+            }
+        ]
+    },
+    {
+        "ItemId": 50002,
+        "Times": 1,
+        "GainCount": 1,
+        "Consume": [
+            {
+                "key": 3,
+                "value": 160
+            }
+        ]
+    },
+    {
+        "ItemId": 50005,
+        "Times": 1,
+        "GainCount": 1,
+        "Consume": [
+            {
+                "key": 3,
+                "value": 160
+            }
+        ]
+    }
+]

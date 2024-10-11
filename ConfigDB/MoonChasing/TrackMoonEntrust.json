@@ -1,0 +1,902 @@
+[
+    {
+        "Id": 1,
+        "Title": "Moonfiesta_Entrust_1_Title",
+        "Content": "Moonfiesta_Entrust_1_Content",
+        "UnlockCondition": 0,
+        "Guaranteed": true,
+        "JumpType": 0,
+        "JumpParam": 0,
+        "CapacityMap": [
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 10
+            },
+            {
+                "key": 15,
+                "value": 0
+            }
+        ],
+        "Star": 1,
+        "EntrustType": 1,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 300
+            },
+            {
+                "key": 500,
+                "value": 700
+            }
+        ],
+        "IdeaSuccMul": [
+            2000,
+            50000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            142,
+            400
+        ],
+        "AttributeMaxValue": 200,
+        "InvestLimit": 500
+    },
+    {
+        "Id": 2,
+        "Title": "Moonfiesta_Entrust_4_Title",
+        "Content": "Moonfiesta_Entrust_4_Content",
+        "UnlockCondition": 12100003,
+        "Guaranteed": true,
+        "JumpType": 3,
+        "JumpParam": 3,
+        "CapacityMap": [
+            {
+                "key": 2,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 10
+            },
+            {
+                "key": 15,
+                "value": 0
+            }
+        ],
+        "Star": 1,
+        "EntrustType": 4,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 300
+            },
+            {
+                "key": 500,
+                "value": 700
+            }
+        ],
+        "IdeaSuccMul": [
+            2000,
+            50000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            142,
+            400
+        ],
+        "AttributeMaxValue": 200,
+        "InvestLimit": 500
+    },
+    {
+        "Id": 3,
+        "Title": "Moonfiesta_Entrust_3_Title",
+        "Content": "Moonfiesta_Entrust_3_Content",
+        "UnlockCondition": 12100025,
+        "Guaranteed": false,
+        "JumpType": 1,
+        "JumpParam": 3,
+        "CapacityMap": [
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 15
+            },
+            {
+                "key": 15,
+                "value": 3000
+            }
+        ],
+        "Star": 3,
+        "EntrustType": 3,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 150
+            },
+            {
+                "key": 20000,
+                "value": 600
+            }
+        ],
+        "IdeaSuccMul": [
+            2500,
+            2000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            92,
+            300
+        ],
+        "AttributeMaxValue": 350,
+        "InvestLimit": 20000
+    },
+    {
+        "Id": 4,
+        "Title": "Moonfiesta_Entrust_7_Title",
+        "Content": "Moonfiesta_Entrust_7_Content",
+        "UnlockCondition": 0,
+        "Guaranteed": false,
+        "JumpType": 0,
+        "JumpParam": 0,
+        "CapacityMap": [
+            {
+                "key": 1,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 15
+            },
+            {
+                "key": 15,
+                "value": 15
+            }
+        ],
+        "Star": 1,
+        "EntrustType": 7,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 200
+            },
+            {
+                "key": 500,
+                "value": 700
+            }
+        ],
+        "IdeaSuccMul": [
+            2000,
+            50000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            107,
+            300
+        ],
+        "AttributeMaxValue": 200,
+        "InvestLimit": 500
+    },
+    {
+        "Id": 5,
+        "Title": "Moonfiesta_Entrust_5_Title",
+        "Content": "Moonfiesta_Entrust_5_Content",
+        "UnlockCondition": 12100008,
+        "Guaranteed": false,
+        "JumpType": 3,
+        "JumpParam": 8,
+        "CapacityMap": [
+            {
+                "key": 2,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 10
+            },
+            {
+                "key": 15,
+                "value": 1000
+            }
+        ],
+        "Star": 2,
+        "EntrustType": 5,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 200
+            },
+            {
+                "key": 5000,
+                "value": 700
+            }
+        ],
+        "IdeaSuccMul": [
+            2000,
+            500000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            107,
+            300
+        ],
+        "AttributeMaxValue": 200,
+        "InvestLimit": 5000
+    },
+    {
+        "Id": 6,
+        "Title": "Moonfiesta_Entrust_9_Title",
+        "Content": "Moonfiesta_Entrust_9_Content",
+        "UnlockCondition": 12100009,
+        "Guaranteed": false,
+        "JumpType": 3,
+        "JumpParam": 9,
+        "CapacityMap": [
+            {
+                "key": 1,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 15
+            },
+            {
+                "key": 15,
+                "value": 5250
+            }
+        ],
+        "Star": 3,
+        "EntrustType": 9,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 150
+            },
+            {
+                "key": 20000,
+                "value": 600
+            }
+        ],
+        "IdeaSuccMul": [
+            2500,
+            2000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            92,
+            300
+        ],
+        "AttributeMaxValue": 350,
+        "InvestLimit": 20000
+    },
+    {
+        "Id": 7,
+        "Title": "Moonfiesta_Entrust_8_Title",
+        "Content": "Moonfiesta_Entrust_8_Content",
+        "UnlockCondition": 12100010,
+        "Guaranteed": false,
+        "JumpType": 3,
+        "JumpParam": 10,
+        "CapacityMap": [
+            {
+                "key": 1,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 15
+            },
+            {
+                "key": 15,
+                "value": 1500
+            }
+        ],
+        "Star": 2,
+        "EntrustType": 8,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 200
+            },
+            {
+                "key": 10000,
+                "value": 700
+            }
+        ],
+        "IdeaSuccMul": [
+            2000,
+            1000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            107,
+            300
+        ],
+        "AttributeMaxValue": 200,
+        "InvestLimit": 10000
+    },
+    {
+        "Id": 8,
+        "Title": "Moonfiesta_Entrust_8_Title",
+        "Content": "Moonfiesta_Entrust_8_Content",
+        "UnlockCondition": 12100026,
+        "Guaranteed": false,
+        "JumpType": 1,
+        "JumpParam": 4,
+        "CapacityMap": [
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 15
+            },
+            {
+                "key": 15,
+                "value": 6000
+            }
+        ],
+        "Star": 3,
+        "EntrustType": 16,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 150
+            },
+            {
+                "key": 30000,
+                "value": 600
+            }
+        ],
+        "IdeaSuccMul": [
+            2500,
+            3000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            92,
+            300
+        ],
+        "AttributeMaxValue": 350,
+        "InvestLimit": 30000
+    },
+    {
+        "Id": 9,
+        "Title": "Moonfiesta_Entrust_17_Title",
+        "Content": "Moonfiesta_Entrust_17_Content",
+        "UnlockCondition": 12100006,
+        "Guaranteed": false,
+        "JumpType": 3,
+        "JumpParam": 6,
+        "CapacityMap": [
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 20
+            },
+            {
+                "key": 15,
+                "value": 15000
+            }
+        ],
+        "Star": 4,
+        "EntrustType": 17,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 50
+            },
+            {
+                "key": 80000,
+                "value": 550
+            }
+        ],
+        "IdeaSuccMul": [
+            3000,
+            8000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            81,
+            300
+        ],
+        "AttributeMaxValue": 500,
+        "InvestLimit": 150000
+    },
+    {
+        "Id": 10,
+        "Title": "Moonfiesta_Entrust_2_Title",
+        "Content": "Moonfiesta_Entrust_2_Content",
+        "UnlockCondition": 0,
+        "Guaranteed": false,
+        "JumpType": 0,
+        "JumpParam": 0,
+        "CapacityMap": [
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 10
+            },
+            {
+                "key": 15,
+                "value": 50
+            }
+        ],
+        "Star": 2,
+        "EntrustType": 2,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 200
+            },
+            {
+                "key": 1000,
+                "value": 700
+            }
+        ],
+        "IdeaSuccMul": [
+            2000,
+            100000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            107,
+            300
+        ],
+        "AttributeMaxValue": 200,
+        "InvestLimit": 2000
+    },
+    {
+        "Id": 11,
+        "Title": "Moonfiesta_Entrust_6_Title",
+        "Content": "Moonfiesta_Entrust_6_Content",
+        "UnlockCondition": 12100004,
+        "Guaranteed": false,
+        "JumpType": 3,
+        "JumpParam": 4,
+        "CapacityMap": [
+            {
+                "key": 2,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 15
+            },
+            {
+                "key": 15,
+                "value": 6000
+            }
+        ],
+        "Star": 3,
+        "EntrustType": 6,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 150
+            },
+            {
+                "key": 30000,
+                "value": 600
+            }
+        ],
+        "IdeaSuccMul": [
+            2500,
+            3000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            92,
+            300
+        ],
+        "AttributeMaxValue": 350,
+        "InvestLimit": 50000
+    },
+    {
+        "Id": 12,
+        "Title": "Moonfiesta_Entrust_11_Title",
+        "Content": "Moonfiesta_Entrust_11_Content",
+        "UnlockCondition": 12100027,
+        "Guaranteed": false,
+        "JumpType": 1,
+        "JumpParam": 5,
+        "CapacityMap": [
+            {
+                "key": 2,
+                "value": 1
+            },
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 15
+            },
+            {
+                "key": 15,
+                "value": 75000
+            }
+        ],
+        "Star": 4,
+        "EntrustType": 11,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 50
+            },
+            {
+                "key": 150000,
+                "value": 550
+            }
+        ],
+        "IdeaSuccMul": [
+            3000,
+            15000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            81,
+            300
+        ],
+        "AttributeMaxValue": 500,
+        "InvestLimit": 150000
+    },
+    {
+        "Id": 13,
+        "Title": "Moonfiesta_Entrust_10_Title",
+        "Content": "Moonfiesta_Entrust_10_Content",
+        "UnlockCondition": 12100002,
+        "Guaranteed": false,
+        "JumpType": 3,
+        "JumpParam": 2,
+        "CapacityMap": [
+            {
+                "key": 2,
+                "value": 1
+            },
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 20
+            },
+            {
+                "key": 15,
+                "value": 10000
+            }
+        ],
+        "Star": 3,
+        "EntrustType": 10,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 150
+            },
+            {
+                "key": 50000,
+                "value": 600
+            }
+        ],
+        "IdeaSuccMul": [
+            2500,
+            5000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            92,
+            300
+        ],
+        "AttributeMaxValue": 350,
+        "InvestLimit": 50000
+    },
+    {
+        "Id": 14,
+        "Title": "Moonfiesta_Entrust_14_Title",
+        "Content": "Moonfiesta_Entrust_14_Content",
+        "UnlockCondition": 12100005,
+        "Guaranteed": false,
+        "JumpType": 3,
+        "JumpParam": 5,
+        "CapacityMap": [
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 15
+            },
+            {
+                "key": 15,
+                "value": 90000
+            }
+        ],
+        "Star": 4,
+        "EntrustType": 14,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 50
+            },
+            {
+                "key": 200000,
+                "value": 550
+            }
+        ],
+        "IdeaSuccMul": [
+            3000,
+            20000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            81,
+            300
+        ],
+        "AttributeMaxValue": 500,
+        "InvestLimit": 200000
+    },
+    {
+        "Id": 15,
+        "Title": "Moonfiesta_Entrust_18_Title",
+        "Content": "Moonfiesta_Entrust_18_Content",
+        "UnlockCondition": 12100504,
+        "Guaranteed": false,
+        "JumpType": 0,
+        "JumpParam": 0,
+        "CapacityMap": [
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 15
+            },
+            {
+                "key": 15,
+                "value": 150000
+            }
+        ],
+        "Star": 5,
+        "EntrustType": 18,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 500000,
+                "value": 500
+            }
+        ],
+        "IdeaSuccMul": [
+            5000,
+            50000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            55,
+            300
+        ],
+        "AttributeMaxValue": 600,
+        "InvestLimit": 1000000
+    },
+    {
+        "Id": 16,
+        "Title": "Moonfiesta_Entrust_13_Title",
+        "Content": "Moonfiesta_Entrust_13_Content",
+        "UnlockCondition": 12100001,
+        "Guaranteed": false,
+        "JumpType": 3,
+        "JumpParam": 1,
+        "CapacityMap": [
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 20
+            },
+            {
+                "key": 15,
+                "value": 8000
+            }
+        ],
+        "Star": 3,
+        "EntrustType": 13,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 150
+            },
+            {
+                "key": 40000,
+                "value": 600
+            }
+        ],
+        "IdeaSuccMul": [
+            2500,
+            4000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            92,
+            300
+        ],
+        "AttributeMaxValue": 350,
+        "InvestLimit": 50000
+    },
+    {
+        "Id": 17,
+        "Title": "Moonfiesta_Entrust_15_Title",
+        "Content": "Moonfiesta_Entrust_15_Content",
+        "UnlockCondition": 12100007,
+        "Guaranteed": false,
+        "JumpType": 3,
+        "JumpParam": 7,
+        "CapacityMap": [
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 20
+            },
+            {
+                "key": 15,
+                "value": 80000
+            }
+        ],
+        "Star": 4,
+        "EntrustType": 15,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 50
+            },
+            {
+                "key": 200000,
+                "value": 550
+            }
+        ],
+        "IdeaSuccMul": [
+            3000,
+            20000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            81,
+            300
+        ],
+        "AttributeMaxValue": 500,
+        "InvestLimit": 200000
+    },
+    {
+        "Id": 18,
+        "Title": "Moonfiesta_Entrust_12_Title",
+        "Content": "Moonfiesta_Entrust_12_Content",
+        "UnlockCondition": 12100504,
+        "Guaranteed": false,
+        "JumpType": 0,
+        "JumpParam": 0,
+        "CapacityMap": [
+            {
+                "key": 2,
+                "value": 1
+            },
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Consume": [
+            {
+                "key": 14,
+                "value": 25
+            },
+            {
+                "key": 15,
+                "value": 250000
+            }
+        ],
+        "Star": 5,
+        "EntrustType": 12,
+        "IdeaSuccRatio": [
+            {
+                "key": 1,
+                "value": 0
+            },
+            {
+                "key": 500000,
+                "value": 500
+            }
+        ],
+        "IdeaSuccMul": [
+            5000,
+            50000000
+        ],
+        "AttributionSuccRatio": [
+            0,
+            55,
+            300
+        ],
+        "AttributeMaxValue": 600,
+        "InvestLimit": 1000000
+    }
+]

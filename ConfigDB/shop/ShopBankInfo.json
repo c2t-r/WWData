@@ -1,0 +1,507 @@
+[
+    {
+        "Id": 1,
+        "BankId": 100,
+        "ItemId": 43010001,
+        "Weight": 1000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 200
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 200
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 2,
+        "BankId": 100,
+        "ItemId": 43010001,
+        "Weight": 2000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 201
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 201
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 3,
+        "BankId": 100,
+        "ItemId": 43010001,
+        "Weight": 3000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 202
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 202
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 4,
+        "BankId": 200,
+        "ItemId": 43010001,
+        "Weight": 3000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 203
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 203
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 5,
+        "BankId": 200,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 204
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 204
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 6,
+        "BankId": 200,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 205
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 205
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 7,
+        "BankId": 300,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 206
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 206
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 8,
+        "BankId": 300,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 207
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 207
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 9,
+        "BankId": 400,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 208
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 208
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 10,
+        "BankId": 400,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 209
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 209
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 11,
+        "BankId": 500,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 210
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 210
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 12,
+        "BankId": 500,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 211
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 211
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 13,
+        "BankId": 600,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 212
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 212
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 14,
+        "BankId": 600,
+        "ItemId": 43010001,
+        "Weight": 4000,
+        "ItemNum": 10,
+        "LimitNum": 8,
+        "OriginalPrice": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 213
+            }
+        ],
+        "Price": [
+            {
+                "key": 1,
+                "value": 100
+            },
+            {
+                "key": 41100011,
+                "value": 213
+            }
+        ],
+        "Show": true,
+        "Label": ""
+    },
+    {
+        "Id": 10401,
+        "BankId": 1003,
+        "ItemId": 43010001,
+        "Weight": 2000,
+        "ItemNum": 5,
+        "LimitNum": 3,
+        "OriginalPrice": [],
+        "Price": [
+            {
+                "key": 3,
+                "value": 60
+            }
+        ],
+        "Show": false,
+        "Label": ""
+    },
+    {
+        "Id": 10402,
+        "BankId": 1003,
+        "ItemId": 43010001,
+        "Weight": 2000,
+        "ItemNum": 5,
+        "LimitNum": 3,
+        "OriginalPrice": [],
+        "Price": [
+            {
+                "key": 3,
+                "value": 60
+            }
+        ],
+        "Show": false,
+        "Label": ""
+    },
+    {
+        "Id": 10403,
+        "BankId": 1003,
+        "ItemId": 43010001,
+        "Weight": 2000,
+        "ItemNum": 5,
+        "LimitNum": 3,
+        "OriginalPrice": [],
+        "Price": [
+            {
+                "key": 3,
+                "value": 60
+            }
+        ],
+        "Show": false,
+        "Label": ""
+    },
+    {
+        "Id": 10404,
+        "BankId": 1004,
+        "ItemId": 43010001,
+        "Weight": 2000,
+        "ItemNum": 5,
+        "LimitNum": 3,
+        "OriginalPrice": [],
+        "Price": [
+            {
+                "key": 3,
+                "value": 60
+            }
+        ],
+        "Show": false,
+        "Label": ""
+    },
+    {
+        "Id": 10405,
+        "BankId": 1004,
+        "ItemId": 43010001,
+        "Weight": 2000,
+        "ItemNum": 5,
+        "LimitNum": 3,
+        "OriginalPrice": [],
+        "Price": [
+            {
+                "key": 3,
+                "value": 60
+            }
+        ],
+        "Show": false,
+        "Label": ""
+    }
+]

@@ -1,0 +1,320 @@
+[
+    {
+        "Id": 0.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_Empty_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertybluecooling_UI.T_Iconpropertybluecooling_UI"
+    },
+    {
+        "Id": -1.5845632502852868e+29,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92007100_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredmine_UI.T_Iconpropertyredmine_UI"
+    },
+    {
+        "Id": -4.056481920730334e+31,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92007101_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredwind_UI.T_Iconpropertyredwind_UI"
+    },
+    {
+        "Id": -1.0384593717069655e+34,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92007102_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredhot_UI.T_Iconpropertyredhot_UI"
+    },
+    {
+        "Id": 131072.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008018_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredmine_UI.T_Iconpropertyredmine_UI"
+    },
+    {
+        "Id": 0.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_50001_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredwind_UI.T_Iconpropertyredwind_UI"
+    },
+    {
+        "Id": 0.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_50003_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredhot_UI.T_Iconpropertyredhot_UI"
+    },
+    {
+        "Id": 3.0517578125e-05,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008014_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredcrit_UI.T_Iconpropertyredcrit_UI"
+    },
+    {
+        "Id": 512.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008017_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertygreenenergy_UI.T_Iconpropertygreenenergy_UI"
+    },
+    {
+        "Id": 0.0078125,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008015_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 2.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008016_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 9.860761315262648e-32,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008003_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 1.0842021724855044e-19,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008008_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertygreenenergy_UI.T_Iconpropertygreenenergy_UI"
+    },
+    {
+        "Id": 2.7755575615628914e-17,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008009_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertygreenenergy_UI.T_Iconpropertygreenenergy_UI"
+    },
+    {
+        "Id": 33554432.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008019_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 8589934592.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008020_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 2199023255552.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008021_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 562949953421312.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008022_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 1.4411518807585587e+17,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008023_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 3.851859888774472e-34,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92007106_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 3.6893488147419103e+19,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008024_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredcrit_UI.T_Iconpropertyredcrit_UI"
+    },
+    {
+        "Id": 9.44473296573929e+21,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008025_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredspeed_UI.T_Iconpropertyredspeed_UI"
+    },
+    {
+        "Id": 2.4178516392292583e+24,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008026_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredmine_UI.T_Iconpropertyredmine_UI"
+    },
+    {
+        "Id": -2.658455991569832e+36,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92007103_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredice_UI.T_Iconpropertyredice_UI"
+    },
+    {
+        "Id": 0.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92007104_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredlight_UI.T_Iconpropertyredlight_UI"
+    },
+    {
+        "Id": 1.504632769052528e-36,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92007105_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyreddark_UI.T_Iconpropertyreddark_UI"
+    },
+    {
+        "Id": 0.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_552_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 6.189700196426902e+26,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008027_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 1.5845632502852868e+29,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008028_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 4.056481920730334e+31,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008029_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": 1.0384593717069655e+34,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008030_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -0.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008032_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -1.504632769052528e-36,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008033_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -3.851859888774472e-34,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008034_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -9.860761315262648e-32,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008035_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -2.524354896707238e-29,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008036_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -6.462348535570529e-27,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008037_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -4.235164736271502e-22,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008039_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -1.6543612251060553e-24,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008038_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -1.0842021724855044e-19,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008040_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -2.7755575615628914e-17,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008041_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -7.105427357601002e-15,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008042_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -1.8189894035458565e-12,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008043_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -4.656612873077393e-10,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008044_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -1.1920928955078125e-07,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008045_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -3.0517578125e-05,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008046_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -0.0078125,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008047_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -2.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008048_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -512.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008049_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -131072.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008050_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -33554432.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008051_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -8589934592.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008052_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    },
+    {
+        "Id": -2199023255552.0,
+        "Name": "",
+        "Desc": "TowerChallengeBuff_92008053_Desc",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+    }
+]

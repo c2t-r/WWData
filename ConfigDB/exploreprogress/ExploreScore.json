@@ -1,0 +1,327 @@
+[
+    {
+        "Area": 2,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 35
+            },
+            {
+                "key": 40,
+                "value": 35
+            },
+            {
+                "key": 60,
+                "value": 35
+            },
+            {
+                "key": 80,
+                "value": 35
+            },
+            {
+                "key": 100,
+                "value": 35
+            }
+        ]
+    },
+    {
+        "Area": 3,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 50
+            },
+            {
+                "key": 40,
+                "value": 50
+            },
+            {
+                "key": 60,
+                "value": 50
+            },
+            {
+                "key": 80,
+                "value": 50
+            },
+            {
+                "key": 100,
+                "value": 50
+            }
+        ]
+    },
+    {
+        "Area": 4,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 150
+            },
+            {
+                "key": 40,
+                "value": 150
+            },
+            {
+                "key": 60,
+                "value": 150
+            },
+            {
+                "key": 80,
+                "value": 150
+            },
+            {
+                "key": 100,
+                "value": 150
+            }
+        ]
+    },
+    {
+        "Area": 5,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 90
+            },
+            {
+                "key": 40,
+                "value": 90
+            },
+            {
+                "key": 60,
+                "value": 90
+            },
+            {
+                "key": 80,
+                "value": 90
+            },
+            {
+                "key": 100,
+                "value": 90
+            }
+        ]
+    },
+    {
+        "Area": 6,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 120
+            },
+            {
+                "key": 40,
+                "value": 120
+            },
+            {
+                "key": 60,
+                "value": 120
+            },
+            {
+                "key": 80,
+                "value": 120
+            },
+            {
+                "key": 100,
+                "value": 120
+            }
+        ]
+    },
+    {
+        "Area": 7,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 100
+            },
+            {
+                "key": 40,
+                "value": 100
+            },
+            {
+                "key": 60,
+                "value": 100
+            },
+            {
+                "key": 80,
+                "value": 100
+            },
+            {
+                "key": 100,
+                "value": 100
+            }
+        ]
+    },
+    {
+        "Area": 8,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 60
+            },
+            {
+                "key": 40,
+                "value": 60
+            },
+            {
+                "key": 60,
+                "value": 60
+            },
+            {
+                "key": 80,
+                "value": 60
+            },
+            {
+                "key": 100,
+                "value": 60
+            }
+        ]
+    },
+    {
+        "Area": 9,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 70
+            },
+            {
+                "key": 40,
+                "value": 70
+            },
+            {
+                "key": 60,
+                "value": 70
+            },
+            {
+                "key": 80,
+                "value": 70
+            },
+            {
+                "key": 100,
+                "value": 70
+            }
+        ]
+    },
+    {
+        "Area": 10,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 160
+            },
+            {
+                "key": 40,
+                "value": 160
+            },
+            {
+                "key": 60,
+                "value": 160
+            },
+            {
+                "key": 80,
+                "value": 160
+            },
+            {
+                "key": 100,
+                "value": 160
+            }
+        ]
+    },
+    {
+        "Area": 12,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 35
+            },
+            {
+                "key": 40,
+                "value": 35
+            },
+            {
+                "key": 60,
+                "value": 35
+            },
+            {
+                "key": 80,
+                "value": 35
+            },
+            {
+                "key": 100,
+                "value": 35
+            }
+        ]
+    },
+    {
+        "Area": 14,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 270
+            },
+            {
+                "key": 40,
+                "value": 270
+            },
+            {
+                "key": 60,
+                "value": 270
+            },
+            {
+                "key": 80,
+                "value": 270
+            },
+            {
+                "key": 100,
+                "value": 270
+            }
+        ]
+    },
+    {
+        "Area": 11,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 55
+            },
+            {
+                "key": 40,
+                "value": 55
+            },
+            {
+                "key": 60,
+                "value": 55
+            },
+            {
+                "key": 80,
+                "value": 55
+            },
+            {
+                "key": 100,
+                "value": 55
+            }
+        ]
+    },
+    {
+        "Area": 15,
+        "ExploreScore": [
+            {
+                "key": 20,
+                "value": 90
+            },
+            {
+                "key": 40,
+                "value": 90
+            },
+            {
+                "key": 60,
+                "value": 90
+            },
+            {
+                "key": 80,
+                "value": 90
+            },
+            {
+                "key": 100,
+                "value": 90
+            }
+        ]
+    }
+]

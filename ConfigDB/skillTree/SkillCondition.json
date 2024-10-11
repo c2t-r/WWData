@@ -1,0 +1,63 @@
+[
+    {
+        "Id": 1,
+        "ConditionType": 2,
+        "ConditionParam": [],
+        "Description": "SkillCondition_1_Description"
+    },
+    {
+        "Id": 2,
+        "ConditionType": 1,
+        "ConditionParam": [
+            {
+                "key": 1,
+                "value": 1
+            }
+        ],
+        "Description": "SkillCondition_2_Description"
+    },
+    {
+        "Id": 3,
+        "ConditionType": 1,
+        "ConditionParam": [
+            {
+                "key": 1,
+                "value": 2
+            }
+        ],
+        "Description": "SkillCondition_3_Description"
+    },
+    {
+        "Id": 4,
+        "ConditionType": 1,
+        "ConditionParam": [
+            {
+                "key": 2,
+                "value": 2
+            }
+        ],
+        "Description": "SkillCondition_4_Description"
+    },
+    {
+        "Id": 5,
+        "ConditionType": 1,
+        "ConditionParam": [
+            {
+                "key": 3,
+                "value": 1
+            }
+        ],
+        "Description": "SkillCondition_5_Description"
+    },
+    {
+        "Id": 6,
+        "ConditionType": 1,
+        "ConditionParam": [
+            {
+                "key": 6,
+                "value": 2
+            }
+        ],
+        "Description": "SkillCondition_6_Description"
+    }
+]
